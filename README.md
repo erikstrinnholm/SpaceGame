@@ -5,20 +5,19 @@
 
 
 
-## Gameplay Overview
+## Gameplay
 
-### StartScene
-Media/Menu1.png
-Media/Menu2.png
-Media/Menu3.png
-
-
-### ShipView
-
-### 
+### Title1
+<p float="left">
+  <img src="Media/Menu1.png" width="250" />
+  <img src="Media/Menu2.png" width="250" />
+  <img src="Media/Menu3.png" width="250" />
+</p>
 
 
-<video src="Media/Ship.mp4" width="800" autoplay loop muted playsinline></video>
-<video src="Media/Transition.mp4" width="800" autoplay loop muted playsinline></video>
-<video src="Media/Character.mp4" width="800" autoplay loop muted playsinline></video>
+### Character
+![Character](Media/Character.gif)
+
+### Ship
+![Ship](Media/Ship.gif)
 
