@@ -1,2 +1,20 @@
-Release
+
+
+# =========== MAC FILES ===========
 .DS_STORE
+
+
+# =========== BUILDS ==============
+Release
+
+
+# =========== UNITY ===============
+Library/
+Logs/
+obj/
+Temp/
+Runnable/
+UserSettings/
+mono_crash*.json
+*.csproj
+*.sln

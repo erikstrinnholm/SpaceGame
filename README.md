@@ -1,8 +1,48 @@
+# SPACE GAME
+Fly around with a spaceship and shoot down asteroids or explore the spacestation hangar in characterview in this demo.
+
+## Project Overview
 **Platform:** macOS & Windows Demo  
 **Engine:** Unity 2022.3 LTS  
+**Genre:** Space Combat / Action
+**ProjectType** Demo / Portfolio Project (Ongoing project that will develop further later)
 
-## Description
-Simple Demo to show the current version of the game. Fly around a space ship and shoot down asteroids and fly into the space station hangar to switch to characterview.
+The repository showcases the architecture and core systems. (not a fully buildable project)
+(this is due to third party licences no allow distribution of raw source-files, working on building demo scenes to include a buildable project, but this is an ongoing fix)
+
+See LICENSE and CREDITS.md for the project license and third party asset usage.
+
+Demo builds are avaiable in Release https://github.com/erikstrinnholm/SpaceGame/releases
+
+
+## How to play the Demo
+Download the MAC or Windows.zip from https://github.com/erikstrinnholm/SpaceGame/releases
+
+### MAC users
+1. Download and unzip the file.
+2. Launch the application 
+(If the macOS says the app is damaged, to allow you to play the game)
+    1. Open Terminal
+    2. Navigate to the folder containing the app.
+    3. Run: xattr -cr GameDemoMac.app
+    4. Then launch it normally.
+    (This is due to:
+        - The application is still unsigned.
+        - The application is downloaded from the internet.
+        - The application is not notarized by Apple.
+    
+### Windows users
+(TODO: check if it still works)
+
+
+## Game Features
+- Spaceship flight (ship rotates towards the aim point, and moves forward by thrust)
+- Combat system (weapon switching, firing, reloading etc.)
+- Inventory system (work in progress)
+- Save system (Player data is stored locally in json format)
+- Menu and UI navigation
+- Saves AudioLevels between sessions
+
 
 ## Gameplay 
 ### Start Scene
