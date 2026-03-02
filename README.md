@@ -22,6 +22,7 @@
 
 ### Character Scene
 ![Character](Media/Character.gif)
+<img src="Media/Character.gif" width="400" />
 
 
 ## Controls
