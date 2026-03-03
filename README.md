@@ -29,11 +29,10 @@ Download the MAC or Windows.zip from https://github.com/erikstrinnholm/SpaceGame
     (This is due to:
         - The application is still unsigned.
         - The application is downloaded from the internet.
-        - The application is not notarized by Apple.
     
 ### Windows users
-(TODO: check if it still works)
-
+1. Download an unzip the file.
+2. Launch the .exe application.
 
 ## Game Features
 - Spaceship flight (ship rotates towards the aim point, and moves forward by thrust)
